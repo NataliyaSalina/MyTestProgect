@@ -10,6 +10,7 @@ namespace Project.ConsoleApp
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
